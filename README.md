@@ -17,20 +17,20 @@ In this python project, I have made an attendance system which takes attendance 
 
 # SCREENSHOTS
 MAIN SCREEN:
-(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/1#issue-2783373939)
+![writting](https://github.com/user-attachments/assets/e8550c2e-cb75-458c-aa88-0c629459fab3)
 
 
 TAKING ATTENDANCE:
-(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/2#issue-2783379851)
+![takingphoto](https://github.com/user-attachments/assets/8a5a566a-d869-409a-b3d7-4dd848fa2965)
 
 
 SHOWING ATTENDANCE TAKEN:
-(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/3#issue-2783383455)
+![checkingwithphoto](https://github.com/user-attachments/assets/b4e1cdec-41dc-44ca-9e98-be7db8a9535f)
 
 
 HELP OPTION IN MENUBAR:
-(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/4#issue-2783396273)
+![2](https://github.com/user-attachments/assets/2cc79852-eca6-4db2-8620-753297468d45)
 
 
 CHANGE PASSWORD OPTION:
-(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/5#issue-2783397661)
+![1](https://github.com/user-attachments/assets/54e02d3e-9917-40f9-8ff5-ae2c3828d99d)
