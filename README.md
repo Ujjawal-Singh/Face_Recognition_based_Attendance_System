@@ -15,3 +15,22 @@ In this python project, I have made an attendance system which takes attendance 
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+# SCREENSHOTS
+MAIN SCREEN:
+(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/1#issue-2783373939)
+
+
+TAKING ATTENDANCE:
+(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/2#issue-2783379851)
+
+
+SHOWING ATTENDANCE TAKEN:
+(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/3#issue-2783383455)
+
+
+HELP OPTION IN MENUBAR:
+(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/4#issue-2783396273)
+
+
+CHANGE PASSWORD OPTION:
+(https://github.com/Ujjawal-Singh/Face_Recognition_based_Attendance_System/issues/5#issue-2783397661)
